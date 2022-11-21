@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Vue JS
 - 📖 Currently studying Electrical engineering at university North.
 - 📫 You can reach me through my e-mail and linkedin
 
