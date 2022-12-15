@@ -1,7 +1,7 @@
 - 👋 Hi, I’m David
 - 👀 I’m interested in frontend development
 - 🌱 React JS
-- 📖 Currently studying Electrical engineering at university North.
+- 📖 Currently studying Electrical engineering at University North
 - 📫 You can reach me through my e-mail and linkedin
 
 <!---
